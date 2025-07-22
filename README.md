@@ -2,7 +2,7 @@
 
 A stunning interactive particle system showcasing modern web technologies with React, TypeScript, and Canvas API. Features real-time physics, magnetic attraction, fluid dynamics, and comprehensive visual controls.
 
-## ✨ Features
+## Features
 
 - **Real-time Particle Physics** - Advanced particle systems with gravity, velocity, and life cycles
 - **Magnetic Attraction** - Particles attract to mouse cursor and each other
@@ -11,7 +11,7 @@ A stunning interactive particle system showcasing modern web technologies with R
 - **Interactive Controls** - Color presets, physics parameters, visual toggles
 - **Responsive Design** - Works on desktop and tablet devices
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -69,7 +69,7 @@ If you're setting this up from scratch:
    npm start
    ```
 
-## 🎮 How to Use
+## How to Use
 
 ### Mouse Controls
 - **Move Mouse** - Create particles along your cursor path
@@ -96,7 +96,7 @@ If you're setting this up from scratch:
 - **shadcn/ui** - Beautiful, accessible UI components
 - **Lucide React** - Modern icon library
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── App.tsx                    # Main application component
@@ -110,7 +110,7 @@ If you're setting this up from scratch:
 └── README.md                 # This file
 ```
 
-## 🎨 Customization
+## Customization
 
 ### Adding New Visual Effects
 Modify `InteractiveCanvas.tsx` to add new particle behaviors or visual effects.
@@ -144,11 +144,11 @@ Adjust the `particleLimit` and animation frame rate in the canvas component for 
 - **Recommended**: Chrome, Firefox, Safari, Edge (latest versions)
 - **Minimum**: Any browser with Canvas API and ES6 support
 
-## 📄 License
+## License
 
 This project is open source and available under the MIT License.
 
-## 🙋‍♂️ Support
+## Support
 
 If you encounter any issues or have questions:
 1. Check the troubleshooting section above
@@ -157,4 +157,4 @@ If you encounter any issues or have questions:
 
 ---
 
-**Enjoy creating stunning visual experiences! 🎆**
+**Enjoy creating stunning visual experiences!**
