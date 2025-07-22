@@ -1,6 +1,6 @@
 # Interactive Canvas - Advanced Particle System
 
-A stunning interactive particle system showcasing modern web technologies with React, TypeScript, and Canvas API. Features real-time physics, magnetic attraction, fluid dynamics, and comprehensive visual controls.
+An interactive particle system showcasing modern web technologies with React, TypeScript, and Canvas API. Features real-time physics, magnetic attraction, fluid dynamics, and comprehensive visual controls.
 
 ## Features
 
